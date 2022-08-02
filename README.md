@@ -1,5 +1,3 @@
-# react-projects-7-slider
+### react-projects-7-slider
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+#### Live Demo: https://visionary-pie-946d4c.netlify.app/
